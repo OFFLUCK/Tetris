@@ -1,1 +1,1 @@
-# Full of bugs Tetris.
+# Full of bugs Tetris
